@@ -1,0 +1,4 @@
+fastapi
+sentence-transformers
+pandas
+numpy
