@@ -245,6 +245,10 @@ def draw_heatmap(sim_matrix, names, title, figsize=(14, 12)):
 # Таблица 1: межкатегорийная
 # ──────────────────────────────────────────────
 
+
+
+
+
 fig1 = draw_heatmap(
     cross_sim,
     cross_names,
